@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I+am+Dmytro;" />
 </h1>
 <h4 align="center">🚀 Welcome to my GitHub universe! 🚀</h4>
 <h2 align="center">Next | Vue | TailwindCSS | Fronend Web Developer</h2>
@@ -8,7 +8,6 @@
 <img alt="Coding" src="https://github.com/SaxenaShourya/SaxenaShourya/assets/143955797/e5a6d997-deaf-4f4f-88c2-18e9c90a688c" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otaviossousa&label=Profile%20views&color=0e75b6&style=flat" alt="otavio-sousa" /> </p>
-<h3 align="center">Next | Vue | TailwindCSS | Fronend Web Developer</h3>
 
 <h2 align="center">Languages and Tools:</h2>
 <div style="display: flex; align-items: flex-start; align: center">
