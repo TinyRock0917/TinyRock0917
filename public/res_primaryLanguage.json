@@ -1,0 +1,213 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Dmytro Kostrytsia. Hi, I am a Front-End developer with 7 years of experience in Next.js, Vue, React and so on. I'm very adept with CSS and can make specific or site-wide changes easily. I can work 45 hours and more in a week, and working time is EDT. Here is my Skills. I'm always interested in connecting with new people and exploring new opportunities. Feel free to reach out and let's get in touch! Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Chronim Delivery",
+        "startDate": "2022",
+        "description": "Chronim Delivery & Logistics Company provides the best transport and shipping services all over the world. We can deliver fast & efficient delivery and transport services to your Industry.",
+        "images": [
+          "images/portfolio/Chronim/Chronim4.png",
+          "images/portfolio/Chronim/Chronim5.png",
+          "images/portfolio/Chronim/Chronim6.png",
+          "images/portfolio/Chronim/Chronim7.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node"
+          },
+          {
+            "class": "devicon-vuejs-plain",
+            "name": "Vue"
+          }
+        ]
+      },
+      {
+        "title": "Sharpcode Solutions",
+        "startDate": "2023",
+        "description": "We are a custom software development and IT services provider based in Dallas TX. We mainly focused on customized enterprise applications development for startups, mid-sized and large companies in various industries.",
+        "images": [
+          "images/portfolio/code/code7.png",
+          "images/portfolio/code/code4.png",
+          "images/portfolio/code/code5.png",
+          "images/portfolio/code/code6.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-webpack-plain",
+            "name": "WebPack"
+          },
+          {
+            "class": "devicon-vuejs-plain",
+            "name": "Vue"
+          }
+        ]
+      },
+      {
+        "title": "DealerPILOT HR",
+        "startDate": "2023",
+        "description": "DealerPILOT HR has all the tools you need to increase employee engagement, eliminate paperwork, improve HR processes, and reduce risk for health & safety programs.",
+        "images": [
+          "images/portfolio/dealer/dealer4.png",
+          "images/portfolio/dealer/dealer5.png",
+          "images/portfolio/dealer/dealer6.png",
+          "images/portfolio/dealer/dealer7.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-vuejs-plain",
+            "name": "Vue"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node"
+          }
+        ]
+      },
+      {
+        "title": "Book MOT, Car Repair",
+        "startDate": "2023",
+        "description": "Need a MOT, car repair or servicing near you? Compare deals online from 15,200 rated & reviewed local garages. Get quotes from local garages today.",
+        "images": [
+          "images/portfolio/fixmycar/fixmycar7.png",
+          "images/portfolio/fixmycar/fixmycar1.png",
+          "images/portfolio/fixmycar/fixmycar2.png",
+          "images/portfolio/fixmycar/fixmycar3.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          }
+        ]
+      },
+      {
+        "title": "Trade Math",
+        "startDate": "2024",
+        "description": "Train your Mental Maths Skills. Start your Career as a trader. Sign up to track your progress, challenge your friends and make it to our leaderboard.",
+        "images": [
+          "images/portfolio/math/math1.png",
+          "images/portfolio/math/math2.png",
+          "images/portfolio/math/math3.png",
+          "images/portfolio/math/math7.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-vuejs-plain",
+            "name": "Vue"
+          },
+          {
+            "class": "devicon-webpack-plain",
+            "name": "WebPack"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          }
+        ]
+      },
+      {
+        "title": "Verified Music Credits",
+        "startDate": "2024",
+        "description": "Discover over 100 million music credits on the world's first verified credit platform for music professionals and artists.",
+        "images": [
+          "images/portfolio/muso/muso7.png",
+          "images/portfolio/muso/muso5.png",
+          "images/portfolio/muso/muso4.png",
+          "images/portfolio/muso/muso6.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-vuejs-plain",
+            "name": "Vue"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "Jquery"
+          },
+          {
+            "class": "devicon-nginx-plain",
+            "name": "Nginx"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Temy",
+        "title": "Senior Frontend Developer",
+        "years": "03.2024 - 09/2024",
+        "mainTech": [
+          "Next | Vue"
+        ],
+        "technologies": [
+          "Next",
+          "Vue",
+          "JavaScript",
+          "Bootstrap",
+          "Tailwind CSS",
+          "MongoDB",
+          "Express"
+        ]
+      },
+      {
+        "company": "Frontend Developer",
+        "title": "Sigma Software Group",
+        "years": "11.2023 - 03.2024",
+        "mainTech": [
+          "React | Express | Node | Tailwind CSS"
+        ],
+        "technologies": [
+          "Node",
+          "React",
+          "Express",
+          "MongoDB",
+          "Web development"
+        ]
+      },
+      {
+        "company": "Mobile Developer",
+        "title": "Brocoders",
+        "years": "09.2023 - 11.2023",
+        "mainTech": [
+          "Android | Java"
+        ],
+        "technologies": [
+          "Java",
+          "Android",
+          "HTML 5",
+          "CSS 3",
+          "Javascript",
+          "Xml",
+          "Eclipse"
+        ]
+      }
+    ]
+  }
