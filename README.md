@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I+am+Dmytro;" />
 </h1>
 <h4 align="center">🚀 Welcome to my GitHub universe! 🚀</h4>
-<h2 align="center">Next | Vue | TailwindCSS | Fronend Web Developer</h2>
+<h2 align="center">React | Next | Vue | TailwindCSS | Fronend Web Developer</h2>
 
 <img alt="Coding" src="https://github.com/SaxenaShourya/SaxenaShourya/assets/143955797/e5a6d997-deaf-4f4f-88c2-18e9c90a688c" />
 
